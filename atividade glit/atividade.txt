@@ -1,0 +1,4 @@
+x=10
+y=15
+resultado= X+Y
+print (resultado)
